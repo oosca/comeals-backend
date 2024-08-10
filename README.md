@@ -9,6 +9,7 @@ the cost of common meals.
 - `git clone https://github.com/joyvuu-dave/comeals-backend.git`
 - `bundle install`
 - `bundle exec rake db:setup`
+- 'npm install'
 - `unset PORT && bin/rails server`
 - `admin.lvh.me:3000`
 
